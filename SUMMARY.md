@@ -18,4 +18,5 @@
    * [Корисні посилання](php_links.md)
 * [MySQL](mysql.md)
 * [Словник термінів](glossary_of_terms.md)
+* Рефакторинг
 
