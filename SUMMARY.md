@@ -13,7 +13,7 @@
    * [Корисні посилання](javascript_links.md)
 * [PHP](php.md)
    * [PHPDoc](phpdoc.md)
-   * PHPUnit
+   * [PHPUnit](phpunit.md)
    * [Корисні посилання](php_links.md)
 * [MySQL](mysql.md)
 * [Словник термінів](glossary_of_terms.md)
