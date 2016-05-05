@@ -4,7 +4,6 @@
 * [Починаємо](getting_started.md)
 * [HTML](html.md)
    * [Корисні посилання](html_links.md)
-   * Мінімальний набір для верстки
 * [JavaScript](javascript.md)
    * [Корисні посилання](javascript_links.md)
 * [Виникають труднощі?](have_a_problem.md)
