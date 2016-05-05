@@ -6,7 +6,7 @@
    * [Виникають труднощі?](have_a_problem.md)
 * [HTML](html.md)
    * [Корисні посилання](html_links.md)
-* CSS
+* [CSS](css.md)
 * [JavaScript](javascript.md)
    * [Корисні посилання](javascript_links.md)
 * [PHP](php.md)
