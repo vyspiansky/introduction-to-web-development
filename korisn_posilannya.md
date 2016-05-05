@@ -9,6 +9,7 @@
 * [https://www.codeschool.com/paths/javascript](https://www.codeschool.com/paths/javascript) (англ.) — ще один сервіс з інтерактивними курсами по JavaScript.
 
 ### Просунутий рівень
+* [http://jstherightway.org/](http://jstherightway.org/) (англ) — JavaScript: The Right Way — збірка сайтів, підходів, порад, які заохочують писати привильний сучасний код.
 * [https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/) (рос., В'ячеслав Голованов) — Виразний Javascript.
 * [http://shamansir.github.io/JavaScript-Garden/](http://shamansir.github.io/JavaScript-Garden/) (рос.) — JavaScript Garden — документація по найбільш хитромудрим темам мови JavaScript, яка постійно оновлюється.
 * [http://largescalejs.ru/](http://largescalejs.ru/) (рос.) — патерни для JavaScript-застосунків, які легко масштабуються.
