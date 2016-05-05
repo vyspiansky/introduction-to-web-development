@@ -6,10 +6,10 @@
    * [Виникають труднощі?](have_a_problem.md)
 * [HTML](html.md)
    * [Корисні посилання](html_links.md)
+* CSS
 * [JavaScript](javascript.md)
    * [Корисні посилання](javascript_links.md)
 * [PHP](php.md)
    * [Корисні посилання](php_links.md)
 * [Словник термінів](glossary_of_terms.md)
-* CSS
 
