@@ -19,5 +19,5 @@
 * [MySQL](mysql.md)
 * [Рефакторинг](refactoring.md)
 * [Словник термінів](glossary_of_terms.md)
-* Шаблони проектування
+* [Шаблони проектування](design_patterns.md)
 
