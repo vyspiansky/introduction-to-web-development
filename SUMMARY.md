@@ -4,6 +4,6 @@
 * [Починаємо](getting_started.md)
 * [JavaScript](javascript.md)
    * [Корисні посилання](javascript_links.md)
-* [Виникають труднощі?](vinikayut_trudnosch.md)
+* [Виникають труднощі?](have_a_problem.md)
 * [Словник термінів](glossary_of_terms.md)
 
