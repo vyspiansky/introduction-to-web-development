@@ -9,6 +9,6 @@
 * [JavaScript](javascript.md)
    * [Корисні посилання](javascript_links.md)
 * [PHP](php.md)
-   * Корисні посилання
+   * [Корисні посилання](php_links.md)
 * [Словник термінів](glossary_of_terms.md)
 
