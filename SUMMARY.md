@@ -8,6 +8,6 @@
    * [Корисні посилання](html_links.md)
 * [JavaScript](javascript.md)
    * [Корисні посилання](javascript_links.md)
-* PHP
+* [PHP](php.md)
 * [Словник термінів](glossary_of_terms.md)
 
