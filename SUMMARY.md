@@ -3,6 +3,7 @@
 * [Вступ](README.md)
 * [Починаємо](getting_started.md)
 * [HTML](html.md)
+   * Корисні посилання
 * [JavaScript](javascript.md)
    * [Корисні посилання](javascript_links.md)
 * [Виникають труднощі?](have_a_problem.md)
