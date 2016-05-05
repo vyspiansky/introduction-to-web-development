@@ -6,4 +6,5 @@
    * [Корисні посилання](javascript_links.md)
 * [Виникають труднощі?](have_a_problem.md)
 * [Словник термінів](glossary_of_terms.md)
+* HTML
 
