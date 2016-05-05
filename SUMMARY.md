@@ -12,6 +12,6 @@
    * [Корисні посилання](javascript_links.md)
 * [PHP](php.md)
    * [Корисні посилання](php_links.md)
-* [Словник термінів](glossary_of_terms.md)
 * MySQL
+* [Словник термінів](glossary_of_terms.md)
 
