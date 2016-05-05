@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Вступ](README.md)
 * [Починаємо](getting_started.md)
 * [JavaScript](javascript.md)
    * [Корисні посилання](korisn_posilannya.md)
