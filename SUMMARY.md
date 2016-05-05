@@ -2,6 +2,7 @@
 
 * [Вступ](README.md)
 * [Починаємо](getting_started.md)
+   * Редактори коду
 * [HTML](html.md)
    * [Корисні посилання](html_links.md)
 * [JavaScript](javascript.md)
