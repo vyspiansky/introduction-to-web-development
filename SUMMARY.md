@@ -4,4 +4,5 @@
 * [First Chapter](chapter1.md)
 * [JavaScript](javascript.md)
    * [Корисні посилання](korisn_posilannya.md)
+* Виникають труднощі?
 
