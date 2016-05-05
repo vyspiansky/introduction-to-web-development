@@ -7,6 +7,7 @@
 * [HTML](html.md)
    * [Корисні посилання](html_links.md)
 * [CSS](css.md)
+   * Корисні посилання
 * [JavaScript](javascript.md)
    * [Корисні посилання](javascript_links.md)
 * [PHP](php.md)
