@@ -18,6 +18,6 @@
    * [Корисні посилання](php_links.md)
 * [MySQL](mysql.md)
 * [Рефакторинг](refactoring.md)
-* [Словник термінів](glossary_of_terms.md)
 * [Шаблони проектування](design_patterns.md)
+* [Словник термінів](glossary_of_terms.md)
 
