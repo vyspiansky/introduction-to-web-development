@@ -17,6 +17,6 @@
    * [PHPUnit](phpunit.md)
    * [Корисні посилання](php_links.md)
 * [MySQL](mysql.md)
-* Рефакторинг
+* [Рефакторинг](refactoring.md)
 * [Словник термінів](glossary_of_terms.md)
 
