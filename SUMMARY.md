@@ -9,7 +9,7 @@
 * [CSS](css.md)
    * [Корисні посилання](css_links.md)
 * [JavaScript](javascript.md)
-   * Тести
+   * [Тести](javascript_quizzes.md)
    * [Корисні посилання](javascript_links.md)
 * [PHP](php.md)
    * [Корисні посилання](php_links.md)
