@@ -4,7 +4,7 @@
 * [Починаємо](getting_started.md)
    * [Редактори коду](code_editors.md)
    * [Виникають труднощі?](have_a_problem.md)
-   * Git
+   * [Git](git.md)
 * [HTML](html.md)
    * [Корисні посилання](html_links.md)
 * [CSS](css.md)
