@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [First Chapter](getting_started.md)
 * [JavaScript](javascript.md)
    * [Корисні посилання](korisn_posilannya.md)
 * [Виникають труднощі?](vinikayut_trudnosch.md)
