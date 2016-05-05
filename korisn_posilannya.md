@@ -6,7 +6,7 @@
 * [http://w3schools.com/js/](http://w3schools.com/js/) (англ.) — підручник по JavaScript.
 
 
-http://stackoverflow.com/ (англ.) — найкрутіша база типу «питання-відповідь» для розробників.
+
 
 Закріплення на практиці
 https://www.codecademy.com/learn/javascript (англ.) — інтерактивні уроки по JavaScript.
