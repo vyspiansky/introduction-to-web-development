@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
 * [JavaScript](javascript.md)
-   * Корисні посилання
+   * [Корисні посилання](korisn_posilannya.md)
 
