@@ -3,6 +3,7 @@
 ### Базовий рівень
 * [https://learn.javascript.ru](https://learn.javascript.ru) (рос.) — сучасний підручник по JavaScript. Матеріал викладено системно, з прикладами, деякі з яких можна одразу ж попробувати в браузері.
 * [http://w3schools.com/js/](http://w3schools.com/js/) (англ.) — підручник по JavaScript.
+* [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) (англ.) — JavaScript керівництво від Mozilla Developer Network.
 
 ### Закріплення на практиці
 * [https://www.codecademy.com/learn/javascript](https://www.codecademy.com/learn/javascript) (англ.) — інтерактивні уроки по JavaScript.
