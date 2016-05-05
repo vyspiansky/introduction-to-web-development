@@ -1,2 +1,13 @@
 # JavaScript
 
+Створено Netscape в 1995 році як розширення HTML для Netscape Navigator 2.0, 
+
+JavaScript мав в якості своєї основної ,
+
+Мова програмування JavaScript була створена в 1995 році компанією Netscape, як розширення HTML для браузера Netscape Navigator 2.0. На її плечі булло покладені функції маніпулювання HTML документами і перевірки форм. 
+
+Спочатку JavaScript називався Mocha, на етапі бета-версії — LiveScript і, лише, коли відбувся фінальний реліз під орудою Sun Microsystems, був хрещений JavaScript.
+
+Через подібність JavaScript з Java, люди часто їх плутають. Це різні мови. 
+
+JavaScript є мовою, що інтерпретується (англ. interpreted language). Це означає, що йому потрібен "перекладач" (англ. interpreter). Таким для JavaScript часто виступає браузер.
