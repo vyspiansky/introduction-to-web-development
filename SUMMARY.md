@@ -10,7 +10,7 @@
 * [CSS](css.md)
    * [Корисні посилання](css_links.md)
 * [JavaScript](javascript.md)
-   * [Історична довідка](js_historical_background.md)
+   * [Історична довідка](javascript_historical_background.md)
    * [Тести](javascript_quizzes.md)
    * [Корисні посилання](javascript_links.md)
 * [PHP](php.md)
