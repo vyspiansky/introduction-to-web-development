@@ -12,6 +12,7 @@
 * [JavaScript](javascript.md)
    * [Тести](javascript_quizzes.md)
    * [Корисні посилання](javascript_links.md)
+   * Історична довідка
 * [PHP](php.md)
    * [PHPDoc](phpdoc.md)
    * [PHPUnit](phpunit.md)
