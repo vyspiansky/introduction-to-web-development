@@ -6,4 +6,3 @@ JavaScript є мовою, що інтерпретується ("тлумачит
 
 * [https://www.codecademy.com/learn/javascript](https://www.codecademy.com/learn/javascript) (англ.)
 * [https://www.codeschool.com/paths/javascript](https://www.codeschool.com/paths/javascript) (англ.)
-
