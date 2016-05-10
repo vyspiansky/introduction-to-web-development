@@ -2,6 +2,8 @@
 
 MVC Pattern
 
+vanilla JavaScript
+
 Інтерпретатор
 
 Реліз
