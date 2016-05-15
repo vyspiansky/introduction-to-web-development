@@ -13,6 +13,7 @@
    * [Історична довідка](javascript_historical_background.md)
    * [Тести](javascript_quizzes.md)
    * [Корисні посилання](javascript_links.md)
+   * Створення комп'ютерних ігор на JavaScript
 * [PHP](php.md)
    * [PHPDoc](phpdoc.md)
    * [PHPUnit](phpunit.md)
