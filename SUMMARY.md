@@ -11,7 +11,7 @@
    * [Корисні посилання](css_links.md)
 * [JavaScript](javascript.md)
    * [Історична довідка](javascript_historical_background.md)
-   * [Створення ігор на JavaScript](javascript_games.md)
+   * [Створення ігор](javascript_games.md)
    * [Тести](javascript_quizzes.md)
    * [Корисні посилання](javascript_links.md)
 * [PHP](php.md)
