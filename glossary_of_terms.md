@@ -1,6 +1,8 @@
 # Словник термінів
 Gitter
 
+hamburger bar (menu)
+
 MVC Pattern
 
 vanilla JavaScript
