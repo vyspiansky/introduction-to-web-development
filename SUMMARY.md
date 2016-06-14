@@ -23,7 +23,7 @@
    * [PHPDoc](phpdoc.md)
    * [PHPUnit](phpunit.md)
    * [Корисні посилання](php_links.md)
-   * Веб-сервери
+   * [Веб-сервери](web_servers.md)
 * [MySQL](mysql.md)
 * [Рефакторинг](refactoring.md)
 * [Шаблони проектування](design_patterns.md)
