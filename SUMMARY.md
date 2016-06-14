@@ -9,7 +9,7 @@
    * [Корисні посилання](html_links.md)
 * [CSS](css.md)
    * [Корисні посилання](css_links.md)
-   * CSS-препроцесори
+   * [CSS-препроцесори](css_preprocessors.md)
 * [JavaScript](javascript.md)
    * [Історична довідка](javascript_historical_background.md)
    * [Створення ігор](javascript_games.md)

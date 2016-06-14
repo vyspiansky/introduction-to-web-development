@@ -9,7 +9,7 @@
 * CSS медіа запити (англ. Media Queries)
 * CSS переходи / анімації (англ. transitions & animations)
 * Веб-шрифти (англ. Web Fonts)
-* CSS-препроцесори
+* CSS-препроцесори (Sass, LESS, Stylus)
 * тощо
 
 ### Використовуйте Git
