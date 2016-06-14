@@ -6,7 +6,7 @@
    * [Редактори коду](code_editors.md)
    * [Git](git.md)
    * [Package Managers](package_managers.md)
-   * Юзабіліті
+   * [Юзабіліті](usability.md)
    * [Виникають труднощі?](have_a_problem.md)
 * [HTML](html.md)
    * [Корисні посилання](html_links.md)
