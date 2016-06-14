@@ -2,7 +2,7 @@
 
 * [Вступ](README.md)
 * [Починаємо](getting_started.md)
-   * Фронтенд / бекенд
+   * [Фронтенд / бекенд](frontend_backend.md)
    * [Редактори коду](code_editors.md)
    * [Git](git.md)
    * [Виникають труднощі?](have_a_problem.md)
