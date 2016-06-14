@@ -2,7 +2,7 @@
 
 Sass, Less і Stylus.
 
-Sass використовує розширення .scss (напр., style.scss), LESS – .less, а Stylus – .styl.
+Sass використовує розширення .scss (напр., style.scss), LESS — .less, а Stylus — .styl.
 
 Stylus найновіший з препроцесорів, його ком'юніті не таке велике, і розробка йде не так швидко, як того хотілося б.
 
