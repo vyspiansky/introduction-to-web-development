@@ -1,9 +1,9 @@
 # Summary
 
 * [Вступ](README.md)
-   * Юзабіліті
 * [Починаємо](getting_started.md)
    * [Фронтенд / бекенд](frontend_backend.md)
+   * Юзабіліті
    * [Редактори коду](code_editors.md)
    * [Git](git.md)
    * [Package Managers](package_managers.md)
