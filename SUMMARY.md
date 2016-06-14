@@ -2,10 +2,10 @@
 
 * [Вступ](README.md)
 * [Починаємо](getting_started.md)
+   * Фронтенд / бекенд
    * [Редактори коду](code_editors.md)
    * [Git](git.md)
    * [Виникають труднощі?](have_a_problem.md)
-   * Фронтенд / бекенд
 * [HTML](html.md)
    * [Корисні посилання](html_links.md)
 * [CSS](css.md)
