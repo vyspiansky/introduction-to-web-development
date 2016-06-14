@@ -3,10 +3,10 @@
 * [Вступ](README.md)
 * [Починаємо](getting_started.md)
    * [Фронтенд / бекенд](frontend_backend.md)
-   * Юзабіліті
    * [Редактори коду](code_editors.md)
    * [Git](git.md)
    * [Package Managers](package_managers.md)
+   * Юзабіліті
    * [Виникають труднощі?](have_a_problem.md)
 * [HTML](html.md)
    * [Корисні посилання](html_links.md)
