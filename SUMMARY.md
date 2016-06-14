@@ -5,7 +5,7 @@
    * [Фронтенд / бекенд](frontend_backend.md)
    * [Редактори коду](code_editors.md)
    * [Git](git.md)
-   * Package Manager
+   * Package Managers
    * [Виникають труднощі?](have_a_problem.md)
 * [HTML](html.md)
    * [Корисні посилання](html_links.md)
