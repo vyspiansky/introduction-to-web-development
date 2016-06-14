@@ -15,6 +15,7 @@
    * [Створення ігор](javascript_games.md)
    * [Тести](javascript_quizzes.md)
    * [Корисні посилання](javascript_links.md)
+   * Інструменти для збірки проектів
 * [PHP](php.md)
    * [PHPDoc](phpdoc.md)
    * [PHPUnit](phpunit.md)
