@@ -14,8 +14,8 @@
    * [Історична довідка](javascript_historical_background.md)
    * [Створення ігор](javascript_games.md)
    * [Тести](javascript_quizzes.md)
-   * [Корисні посилання](javascript_links.md)
    * Інструменти для збірки проектів
+   * [Корисні посилання](javascript_links.md)
 * [PHP](php.md)
    * [PHPDoc](phpdoc.md)
    * [PHPUnit](phpunit.md)
