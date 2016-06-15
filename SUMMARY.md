@@ -8,6 +8,7 @@
    * [Git](git.md)
    * [Package Managers](package_managers.md)
    * [Виникають труднощі?](have_a_problem.md)
+   * Таск-менеджери
 * [HTML](html.md)
    * [Корисні посилання](html_links.md)
 * [CSS](css.md)
