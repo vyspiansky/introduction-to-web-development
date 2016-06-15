@@ -3,7 +3,7 @@
 * [Вступ](README.md)
 * [Починаємо](getting_started.md)
    * [Фронтенд / бекенд](frontend_backend.md)
-   * [Frameworks](frameworks.md)
+   * [Фреймворки](frameworks.md)
    * [Редактори коду](code_editors.md)
    * [Git](git.md)
    * [Package Managers](package_managers.md)
