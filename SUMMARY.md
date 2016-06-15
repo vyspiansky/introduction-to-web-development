@@ -3,11 +3,11 @@
 * [Вступ](README.md)
 * [Починаємо](getting_started.md)
    * [Фронтенд / бекенд](frontend_backend.md)
+   * Frameworks
    * [Редактори коду](code_editors.md)
    * [Git](git.md)
    * [Package Managers](package_managers.md)
    * [Виникають труднощі?](have_a_problem.md)
-   * Frameworks
 * [HTML](html.md)
    * [Корисні посилання](html_links.md)
 * [CSS](css.md)
