@@ -24,7 +24,7 @@
    * [PHPDoc](phpdoc.md)
    * [PHPUnit](phpunit.md)
    * [Корисні посилання](php_links.md)
-   * PHP-фреймворки
+   * [PHP-фреймворки](php_frameworks.md)
 * [MySQL](mysql.md)
 * [Юзабіліті](usability.md)
 * [Рефакторинг](refactoring.md)
