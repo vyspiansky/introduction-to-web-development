@@ -6,7 +6,7 @@
    * [Фреймворки](frameworks.md)
    * [Редактори коду](code_editors.md)
    * [Git](git.md)
-   * [Package Managers](package_managers.md)
+   * [Менеджери пакетів](package_managers.md)
    * [Виникають труднощі?](have_a_problem.md)
    * [Таск-менеджери](task_managers.md)
 * [HTML](html.md)
