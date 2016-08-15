@@ -7,8 +7,10 @@
 Через подібність JavaScript з Java, люди часто їх плутають. Це звісно ж різні мови.
 
 JavaScript є мовою, що інтерпретується ("тлумачиться"). Це означає, що їй потрібен інтерпретатор (англ. interpreter). Останнім для JavaScript часто виступає браузер.
+
 ...
-Щоб почати вчити основи мови, звісно можна засісти за якусь товсту книжку, але це не мій вибір. Краще спробуйте он-лайн інтерективні курси. Наприклад, по JavaScript'і:
+
+Для освоєння мови спробуйте он-лайн інтерективні курси:
 
 * [https://www.codecademy.com/learn/javascript](https://www.codecademy.com/learn/javascript) (англ.)
 * [https://www.codeschool.com/paths/javascript](https://www.codeschool.com/paths/javascript) (англ.)
