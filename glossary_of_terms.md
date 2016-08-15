@@ -2,11 +2,11 @@
 
 Gitter
 
-hamburger bar (menu)
+Hamburger bar (меню)
 
 MVC Pattern
 
-vanilla JavaScript
+Vanilla JavaScript
 
 Інтерпретатор
 
