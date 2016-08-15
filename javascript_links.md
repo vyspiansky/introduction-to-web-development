@@ -5,6 +5,9 @@
 * [http://w3schools.com/js/](http://w3schools.com/js/) (англ.) — підручник по JavaScript.
 * [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) (англ.) — JavaScript керівництво від Mozilla Developer Network.
 
+### Перевiрка знань
+* 
+
 ### Закріплення на практиці
 * [https://www.codecademy.com/learn/javascript](https://www.codecademy.com/learn/javascript) (англ.) — інтерактивні уроки по JavaScript.
 * [https://www.codeschool.com/paths/javascript](https://www.codeschool.com/paths/javascript) (англ.) — ще один сервіс з інтерактивними курсами по JavaScript.
