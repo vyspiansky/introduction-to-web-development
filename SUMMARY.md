@@ -21,7 +21,7 @@
    * [Інструменти для збірки](javascript_build_tools.md)
    * [Корисні посилання](javascript_links.md)
 * [PHP](php.md)
-   * [Веб-сервер](Веб-сервер)
+   * [Веб-сервер](web_server.md)
    * [Середовище для розробки](development_environment.md)
    * [PHP-фреймворки](php_frameworks.md)
    * [PHPDoc](phpdoc.md)
