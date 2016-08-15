@@ -17,7 +17,6 @@
 * [JavaScript](javascript.md)
    * [Історична довідка](javascript_historical_background.md)
    * [Створення ігор](javascript_games.md)
-   * [Тести](javascript_quizzes.md)
    * [Інструменти для збірки](javascript_build_tools.md)
    * [Корисні посилання](javascript_links.md)
 * [PHP](php.md)
