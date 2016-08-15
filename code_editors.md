@@ -4,7 +4,7 @@
 
 В той час як перші є легкими, другі (наприклад, Eclipse, NetBeans або Aptana) — важкі, вимогливі до ресурсів, проте мають значно більше корисних функцій.
 
-Нижче наведено невеличкий список сучасних редакторів коду.
+Нижче в алфавітному порядку наведено невеличкий список сучасних редакторів коду.
 
 ## Текстові редактори
 
@@ -12,21 +12,23 @@
 
 Сайт: [https://atom.io/](https://atom.io/)
 
-### Sublime Text
-
-Сайт: [https://www.sublimetext.com/](https://www.sublimetext.com/)
-
 ### Brackets
 
 Сайт: [http://brackets.io/](http://brackets.io/)
+
+### Notepad++
+
+Сайт: [https://notepad-plus-plus.org/](https://notepad-plus-plus.org/)
+
+### Sublime Text
+
+Сайт: [https://www.sublimetext.com/](https://www.sublimetext.com/)
 
 ### Visual Studio Code
 
 Сайт: [https://www.visualstudio.com/code-vs](https://www.visualstudio.com/code-vs)
 
-### Notepad++
 
-Сайт: [https://notepad-plus-plus.org/](https://notepad-plus-plus.org/)
 
 ## IDE
 
