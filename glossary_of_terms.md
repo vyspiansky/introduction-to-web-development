@@ -1,4 +1,5 @@
 # Словник термінів
+
 Gitter
 
 hamburger bar (menu)
