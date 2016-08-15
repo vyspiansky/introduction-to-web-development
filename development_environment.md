@@ -59,6 +59,7 @@ Vagrant дозволяє без зайвих зусиль згенерувати
 * [http://www.vagrantbox.es/](http://www.vagrantbox.es/)
 
 ## Docker
+
 ...
 
 
