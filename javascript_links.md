@@ -6,7 +6,7 @@
 * [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) (англ.) — JavaScript керівництво від Mozilla Developer Network.
 
 ### Перевiрка знань
-* 
+* [http://javascript-puzzlers.herokuapp.com/](http://javascript-puzzlers.herokuapp.com/) (англ.) — JavaScript Puzzlers! or "Do you really know JavaScript?".
 
 ### Закріплення на практиці
 * [https://www.codecademy.com/learn/javascript](https://www.codecademy.com/learn/javascript) (англ.) — інтерактивні уроки по JavaScript.
