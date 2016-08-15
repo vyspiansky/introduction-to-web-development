@@ -1,6 +1,6 @@
 # CSS-препроцесори
 
-Sass, Less і Stylus.
+Sass, Less і Stylus. Їх ще називають динамічними мовами стилів.
 
 Sass використовує розширення .scss (напр., style.scss), LESS — .less, а Stylus — .styl.
 
