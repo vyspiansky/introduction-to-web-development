@@ -15,7 +15,6 @@
    * [CSS-препроцесори](css_preprocessors.md)
    * [Корисні посилання](css_links.md)
 * [JavaScript](javascript.md)
-   * [Історична довідка](javascript_historical_background.md)
    * [Створення ігор](javascript_games.md)
    * [Інструменти для збірки](javascript_build_tools.md)
    * [Корисні посилання](javascript_links.md)
