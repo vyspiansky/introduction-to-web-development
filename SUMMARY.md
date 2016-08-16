@@ -30,7 +30,7 @@
 * [Бази даних](databases.md)
    * [MySQL](mysql.md)
    * [MongoDB](mongodb.md)
+* [UNIX / Linux](unix_linux.md)
 * [Що далі?](next_step.md)
    * [Рефакторинг](refactoring.md)
-* [UNIX / Linux](unix_linux.md)
 
