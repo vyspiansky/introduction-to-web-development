@@ -14,6 +14,10 @@
 
 ## Github
 
+### Git for Windows
+
+[https://git-for-windows.github.io/](https://git-for-windows.github.io/)
+
 ### GitHub desktop
 
 [https://desktop.github.com/](https://desktop.github.com/)
