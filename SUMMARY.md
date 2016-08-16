@@ -8,6 +8,7 @@
    * [Редактори коду](code_editors.md)
    * [Git](git.md)
    * [Менеджери пакетів](package_managers.md)
+   * [Шаблони проектування](design_patterns.md)
    * [Виникають труднощі?](have_a_problem.md)
    * [Таск-менеджери](task_managers.md)
 * [HTML](html.md)
@@ -27,7 +28,6 @@
    * [PHPUnit](phpunit.md)
    * [Корисні посилання](php_links.md)
 * [MySQL](mysql.md)
-* [Шаблони проектування](design_patterns.md)
 * [Рефакторинг](refactoring.md)
 * [What's the next step?](next_step.md)
 
