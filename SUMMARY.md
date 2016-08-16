@@ -31,7 +31,7 @@
    * [MySQL](mysql.md)
    * [MongoDB](mongodb.md)
 * [UNIX / Linux](unix_linux.md)
-   * Командний рядок
+   * [Командний рядок](command_line.md)
 * [Що далі?](next_step.md)
    * [Регулярні вирази](regular_expression.md)
    * [Рефакторинг](refactoring.md)
