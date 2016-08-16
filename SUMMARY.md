@@ -6,7 +6,7 @@
    * [Веб-сервер](webserver.md)
    * [Фреймворки](frameworks.md)
    * [Редактори коду](code_editors.md)
-   * [Git](git.md)
+   * [Контроль версій](git.md)
    * [Менеджери пакетів](package_managers.md)
    * [Шаблони проектування](design_patterns.md)
    * [Виникають труднощі?](have_a_problem.md)
