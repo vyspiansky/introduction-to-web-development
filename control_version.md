@@ -16,6 +16,8 @@
 
 ## Github
 
+GitHub дозволяє ділитися кодом з іншими розробниками і вести облік помилок (англ. bug tracking).
+
 ### Git for Windows
 
 [https://git-for-windows.github.io/](https://git-for-windows.github.io/)
