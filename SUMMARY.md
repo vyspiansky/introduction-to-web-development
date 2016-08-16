@@ -27,9 +27,9 @@
    * [PHPDoc](phpdoc.md)
    * [PHPUnit](phpunit.md)
    * [Корисні посилання](php_links.md)
-* [Що далі?](next_step.md)
-   * [Рефакторинг](refactoring.md)
 * [Бази даних](databases.md)
    * [MySQL](mysql.md)
    * MongoDB
+* [Що далі?](next_step.md)
+   * [Рефакторинг](refactoring.md)
 
