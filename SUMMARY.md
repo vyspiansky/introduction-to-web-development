@@ -30,5 +30,4 @@
 * [Юзабіліті](usability.md)
 * [Рефакторинг](refactoring.md)
 * [Шаблони проектування](design_patterns.md)
-* [Словник термінів](glossary_of_terms.md)
 
