@@ -42,3 +42,7 @@
 
 Сайт: [https://netbeans.org/](https://netbeans.org/)
 
+### WebStorm, PhpStorm від JetBrains
+
+Сайт: [https://www.jetbrains.com/](https://www.jetbrains.com/)
+
