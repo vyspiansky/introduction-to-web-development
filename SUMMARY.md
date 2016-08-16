@@ -20,7 +20,7 @@
    * [Інструменти для збірки](javascript_build_tools.md)
    * [Корисні посилання](javascript_links.md)
 * [PHP](php.md)
-   * [Вбудований веб-сервер](built_in_web_server_php.md)
+   * [Вбудований веб-сервер](builtin_web_server_php_md.md)
    * [Середовище для розробки](development_environment.md)
    * [PHP-фреймворки](php_frameworks.md)
    * [PHPDoc](phpdoc.md)
