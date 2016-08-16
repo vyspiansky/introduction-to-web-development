@@ -16,5 +16,6 @@
 
 ### GitHub desktop
 
+[https://desktop.github.com/](https://desktop.github.com/)
 
 ## Bitbucket
