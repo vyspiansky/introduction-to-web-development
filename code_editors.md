@@ -10,7 +10,7 @@
 
 ## Текстові редактори
 
-### Atom
+### Atom від GitHub
 
 Сайт: [https://atom.io/](https://atom.io/)
 
@@ -34,5 +34,11 @@
 
 ## IDE
 
-...
+### Aptana Studio
+
+Сайт: [http://www.aptana.com/](http://www.aptana.com/)
+
+### Netbeans
+
+Сайт: [https://netbeans.org/](https://netbeans.org/)
 
