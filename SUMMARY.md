@@ -3,7 +3,7 @@
 * [Вступ](README.md)
 * [Починаємо](getting_started.md)
    * [Фронтенд / бекенд](frontend_backend.md)
-   * [Веб-сервер](webserver_md.md)
+   * [Веб-сервер](webserver.md)
    * [Фреймворки](frameworks.md)
    * [Редактори коду](code_editors.md)
    * [Git](git.md)
