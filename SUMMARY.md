@@ -30,5 +30,4 @@
 * [MySQL](mysql.md)
 * [Що далі?](next_step.md)
    * [Рефакторинг](refactoring.md)
-   * test1
 
