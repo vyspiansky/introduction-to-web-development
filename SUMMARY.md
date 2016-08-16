@@ -32,4 +32,5 @@
    * [MongoDB](mongodb.md)
 * [Що далі?](next_step.md)
    * [Рефакторинг](refactoring.md)
+* UNIX / Linux
 
