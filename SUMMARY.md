@@ -9,7 +9,7 @@
    * [Редактори коду](code_editors.md)
    * [Контроль версій](control_version.md)
    * [Менеджери пакетів](package_managers.md)
-   * [Таск-менеджери](task_managers.md)
+   * [Менеджери завдань](task_managers.md)
 * [Виникають труднощі?](have_a_problem.md)
 * [HTML](html.md)
    * [Корисні посилання](html_links.md)
