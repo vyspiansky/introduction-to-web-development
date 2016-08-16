@@ -1,4 +1,4 @@
-# What's the next step?
+# Що далі?
 
 ...
 
