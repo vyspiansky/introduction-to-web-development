@@ -4,6 +4,13 @@
 
 В той час як перші є легкими, другі (наприклад, Eclipse, NetBeans або Aptana) — важкі, вимогливі до ресурсів, проте мають значно більше корисних функцій.
 
+Останнім часом швидкими темпами розвиваються он-лайн редактори. Їх не потрібно встановлювати, вони працюють в браузері як Google Docs. 
+
+*  **Cloud9** — [https://c9.io/](https://c9.io/)
+*  **ICEcoder** — [http://icecoder.net/](http://icecoder.net/)
+*  **Codio** — [http://codio.com/](http://codio.com/)
+*  **Codeanywhere** — [https://codeanywhere.com/](https://codeanywhere.com/)
+
 Нижче в алфавітному порядку наведено невеличкий список сучасних редакторів коду.
 
 ## Текстові редактори
@@ -41,12 +48,3 @@
 ### WebStorm, PhpStorm від JetBrains
 
 Сайт: [https://www.jetbrains.com/](https://www.jetbrains.com/)
-
-## Он-лайн редактори / IDE
-
-Останнім часом швидкими темпами розвиваються он-лайн редактори. Їх не потрібно встановлювати, вони працюють в браузері як Google Docs. 
-
-*  **Cloud9** — [https://c9.io/](https://c9.io/)
-*  **ICEcoder** — [http://icecoder.net/](http://icecoder.net/)
-*  **Codio** — [http://codio.com/](http://codio.com/)
-*  **Codeanywhere** — [https://codeanywhere.com/](https://codeanywhere.com/)
