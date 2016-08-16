@@ -28,7 +28,7 @@
    * [PHPUnit](phpunit.md)
    * [Корисні посилання](php_links.md)
 * [MySQL](mysql.md)
-* [Рефакторинг](refactoring.md)
 * [What's the next step?](next_step.md)
+   * [Рефакторинг](refactoring.md)
    * test1
 
