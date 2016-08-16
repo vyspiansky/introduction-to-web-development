@@ -28,6 +28,5 @@
    * [Корисні посилання](php_links.md)
 * [MySQL](mysql.md)
 * [Шаблони проектування](design_patterns.md)
-* [Юзабіліті](usability.md)
 * [Рефакторинг](refactoring.md)
 
