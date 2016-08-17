@@ -7,7 +7,7 @@
 В процесі ви познайомитесь з такими термінами:
 * Адаптивний веб-дизайн (англ. Responsive Web Design)
 * CSS медіа запити (англ. Media Queries)
-* CSS переходи / анімації (англ. transitions & animations)
+* CSS переходи / анімації (англ. Transitions & Animations)
 * Веб-шрифти (англ. Web Fonts)
 * CSS-препроцесори (Sass, LESS, Stylus)
 * тощо
