@@ -9,4 +9,4 @@
 
 Також майте на увазі, що дане керівництво ще сире і буде з часом доповнюватись.
 
-Якщо у вас виникли запитання, не стримуйте себе — пишіть на virua [at] ukr [dot] net.
+Якщо у вас виникли запитання, не стримуйте себе — пишіть на virua [at] ukr [dot] net. Обговорити книгу також можна у мене на блозі — [http://vispyanskiy.name/uk/vvedennya-u-veb-rozrobku](http://vispyanskiy.name/uk/vvedennya-u-veb-rozrobku).
