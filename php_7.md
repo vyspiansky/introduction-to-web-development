@@ -53,7 +53,7 @@ function test(int $a, int $b){
 
 ```
 function test($a, $b): int {
-	
+	// ...
 }
 ```
 
