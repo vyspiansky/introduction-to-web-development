@@ -22,7 +22,7 @@
 
 ```
 function test($a, $b){
-	
+	// ...
 }
 ```
 
@@ -30,7 +30,7 @@ function test($a, $b){
 
 ```
 function test(int $a, int $b){
-	
+	// ...
 }
 ```
 
@@ -42,7 +42,7 @@ function test(int $a, int $b){
 declare(strict_types=1);
 
 function test(int $a, int $b){
-	
+	// ...
 }
 ```
 
