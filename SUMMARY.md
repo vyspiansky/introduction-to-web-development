@@ -27,6 +27,7 @@
    * [PHPDoc](phpdoc.md)
    * [PHPUnit](phpunit.md)
    * [Корисні посилання](php_links.md)
+   * PHP 7
 * [Бази даних](databases.md)
    * [MySQL](mysql.md)
    * [MongoDB](mongodb.md)
