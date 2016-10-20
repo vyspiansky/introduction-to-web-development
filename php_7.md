@@ -85,7 +85,7 @@ $value = $post_value ?? $default_value;
 Анонімні класи підходять для невеликих задач.
 
 ```
-$app->setLogger(new class {
+$app -> setLogger(new class {
 	public function log($msg) {
 		// ...
 	}
