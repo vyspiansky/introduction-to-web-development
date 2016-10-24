@@ -21,7 +21,7 @@
 
 Сайт: [https://atom.io/](https://atom.io/)
 
-### Brackets
+### Brackets від Adobe
 
 Сайт: [http://brackets.io/](http://brackets.io/)
 
@@ -29,11 +29,11 @@
 
 Сайт: [https://notepad-plus-plus.org/](https://notepad-plus-plus.org/)
 
-### Sublime Text
+### Sublime Text (платний)
 
 Сайт: [https://www.sublimetext.com/](https://www.sublimetext.com/)
 
-### Visual Studio Code
+### Visual Studio Code від Microsoft
 
 Сайт: [https://www.visualstudio.com/code-vs](https://www.visualstudio.com/code-vs)
 
@@ -47,7 +47,7 @@
 
 Сайт: [https://netbeans.org/](https://netbeans.org/)
 
-### IDE від JetBrains (WebStorm, PhpStorm тощо)
+### IDE від JetBrains (платні WebStorm, PhpStorm тощо)
 
 Сайт: [https://www.jetbrains.com/](https://www.jetbrains.com/)
 
