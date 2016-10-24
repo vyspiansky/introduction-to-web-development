@@ -12,7 +12,7 @@
    * [Менеджери завдань](task_managers.md)
    * [Виникають труднощі?](have_a_problem.md)
 * [HTML](html.md)
-   * [Emmet (formerly Zen Coding)](emmet_formerly_zen_coding.md)
+   * [Emmet](emmet_formerly_zen_coding.md)
    * [Корисні посилання](html_links.md)
 * [CSS](css.md)
    * [CSS-препроцесори](css_preprocessors.md)
