@@ -35,7 +35,7 @@
 
 ### Visual Studio Code від Microsoft
 
-Сайт: [https://www.visualstudio.com/code-vs](https://www.visualstudio.com/code-vs)
+Сайт: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 ## IDE
 
