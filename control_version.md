@@ -27,3 +27,7 @@ GitHub дозволяє ділитися кодом з іншими розроб
 [https://desktop.github.com/](https://desktop.github.com/)
 
 ## Bitbucket
+
+## GitLab
+
+...
