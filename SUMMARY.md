@@ -21,6 +21,7 @@
    * [Створення ігор](javascript_games.md)
    * [Інструменти для збірки](javascript_build_tools.md)
    * [Корисні посилання](javascript_links.md)
+   * TypeScript
 * [PHP](php.md)
    * [Вбудований веб-сервер](builtin_web_server_php.md)
    * [Середовище для розробки](development_environment.md)
