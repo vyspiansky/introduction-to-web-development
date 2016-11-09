@@ -22,6 +22,7 @@
    * [Інструменти для збірки](javascript_build_tools.md)
    * [TypeScript](typescript.md)
    * [Корисні посилання](javascript_links.md)
+   * AJAX
 * [PHP](php.md)
    * [Вбудований веб-сервер](builtin_web_server_php.md)
    * [Середовище для розробки](development_environment.md)
