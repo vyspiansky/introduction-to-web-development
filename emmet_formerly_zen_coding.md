@@ -14,7 +14,5 @@
 
 ![Рузультат роботи Emmet](emmet_basic_example_after.png)
 
-### Деякі скорочення для HTML та їх комбінації
-
 Детальніше про Emmet можна почитати на [emmet.io](http://emmet.io/).
 
