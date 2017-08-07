@@ -37,6 +37,7 @@
     * [Базові команди MySQL](mysql-basic-commands.md)
   * [MongoDB](mongodb.md)
 * [Linux / UNIX](linux-unix.md)
+  * [Командний рядок (термінал)](command-line.md)
 * [Що далі?](next-step.md)
   * [Рефакторинг](refactoring.md)
   * [Регулярні вирази](regular-expression.md)
