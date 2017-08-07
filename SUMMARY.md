@@ -37,5 +37,3 @@
     * [Базові команди MySQL](mysql/mysql-basic-commands.md)
   * [MongoDB](mongodb.md)
 
-## Node.js
-
