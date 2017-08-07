@@ -37,7 +37,4 @@
   * [MySQL](mysql.md)
     * [Базові команди MySQL](mysql/mysql-basic-commands.md)
   * [MongoDB](mongodb.md)
-* [UNIX / Linux](unix_linux.md)
-  * [Командний рядок](command_line.md)
-* [Node.js](nodejs.md)
 
