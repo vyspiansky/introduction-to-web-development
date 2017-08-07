@@ -34,6 +34,6 @@
   * [Корисні посилання](php_links.md)
 * [Бази даних](databases.md)
   * [MySQL](mysql.md)
-    * [Базові команди MySQL](mysql-basic-commands.md)
+    * [Базові команди MySQL](mysql_basic_commands.md)
   * [MongoDB](mongodb.md)
 
