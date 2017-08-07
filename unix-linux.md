@@ -1,2 +1,2 @@
-# Linux and UNIX
+# Linux/UNIX
 
