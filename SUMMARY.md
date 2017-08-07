@@ -24,7 +24,6 @@
   * [TypeScript](typescript.md)
   * [Створення ігор](javascript_games.md)
   * [Корисні посилання](javascript_links.md)
-* [Node.js](nodejs.md)
 * [PHP](php.md)
   * [Вбудований веб-сервер](builtin_web_server_php.md)
   * [Середовище для розробки](development_environment.md)
@@ -37,4 +36,6 @@
   * [MySQL](mysql.md)
     * [Базові команди MySQL](mysql/mysql-basic-commands.md)
   * [MongoDB](mongodb.md)
+
+## Node.js
 
