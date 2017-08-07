@@ -36,4 +36,6 @@
   * [MySQL](mysql.md)
     * [Базові команди MySQL](mysql-basic-commands.md)
   * [MongoDB](mongodb.md)
+* [Linux](linux.md)
+
 
