@@ -10,7 +10,6 @@
   * [Контроль версій](control_version.md)
   * [Менеджери пакетів](package_managers.md)
   * [Менеджери завдань](task_managers.md)
-  * [Семантичне версіювання](semantic-versioning.md)
   * [Виникають труднощі?](have_a_problem.md)
 * [HTML](html.md)
   * [Emmet](emmet_formerly_zen_coding.md)
@@ -42,4 +41,5 @@
 * [Що далі?](next_step.md)
   * [Регулярні вирази](regular_expression.md)
   * [Рефакторинг](refactoring.md)
+  * [Семантичне версіювання](semantic-versioning.md)
 
