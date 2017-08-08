@@ -8,11 +8,11 @@
 (li>a)*3
 ```
 
-![Використання короткого коду для демонстрації роботи Emmet](images/emmet_basic_example_shortcode.png)
+![Використання короткого коду для демонстрації роботи Emmet](emmet_basic_example_shortcode.png)
 
 і тиснемо клавішу `Tab`. Після чого короткий код розгортається у відповідний HTML
 
-![Рузультат роботи Emmet](images/emmet_basic_example_after.png)
+![Рузультат роботи Emmet](emmet_basic_example_after.png)
 
 Детальніше про Emmet можна почитати на [emmet.io](http://emmet.io/).
 
