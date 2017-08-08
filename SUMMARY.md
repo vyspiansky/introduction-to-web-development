@@ -37,9 +37,9 @@
 * [MongoDB](mongodb/index.md)
 * [Linux / UNIX](linux-unix.md)
   * [Командний рядок (термінал)](command-line.md)
-* [Що далі?](next-step.md)
-  * [Рефакторинг](refactoring.md)
-  * [Регулярні вирази](regular-expression.md)
-  * [Семантичне версіювання](semantic-versioning.md)
+* [Що далі?](next-step/index.md)
+  * [Рефакторинг](next-step/refactoring.md)
+  * [Регулярні вирази](next-step/regular-expression.md)
+  * [Семантичне версіювання](next-step/semantic-versioning.md)
 
 
