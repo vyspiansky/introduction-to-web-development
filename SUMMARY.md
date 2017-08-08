@@ -5,7 +5,6 @@
   * [Фронтенд / бекенд](getting-started/frontend-backend.md)
   * [Веб-сервер](getting-started/webserver.md)
   * [Фреймворки](getting-started/frameworks.md)
-  * [Шаблони проектування](getting-started/design-patterns.md)
   * [Редактори коду](getting-started/code-editors.md)
   * [Контроль версій](getting-started/control-version.md)
   * [Менеджери пакетів](getting-started/package-managers.md)
@@ -39,8 +38,9 @@
 * [Linux / UNIX](linux-unix/index.md)
   * [Командний рядок (термінал)](linux-unix/command-line.md)
 * [Що далі?](next-step/index.md)
-  * [Рефакторинг](next-step/refactoring.md)
   * [Регулярні вирази](next-step/regular-expression.md)
+  * [Шаблони проектування](next-step/design-patterns.md)
+  * [Рефакторинг](next-step/refactoring.md)
   * [Семантичне версіювання](next-step/semantic-versioning.md)
 
 
