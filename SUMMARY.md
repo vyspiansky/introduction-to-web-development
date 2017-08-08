@@ -14,7 +14,7 @@
 * [HTML](html/index.md)
   * [Emmet](html/emmet.md)
   * [Корисні посилання](html/links.md)
-* [CSS](css.md)
+* [CSS](index.md)
   * [CSS-препроцесори](css/preprocessors.md)
   * [Корисні посилання](css/links.md)
 * [JavaScript](javascript/index.md)
