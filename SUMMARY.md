@@ -18,7 +18,6 @@
   * [CSS-препроцесори](css/preprocessors.md)
   * [Корисні посилання](css/links.md)
 * [JavaScript](javascript/index.md)
-  * [ECMAScript](javascript/ecmascript.md)
   * [AJAX](javascript/ajax.md)
   * [jQuery](javascript/jquery.md)
   * [Інструменти для збірки](javascript/build-tools.md)
