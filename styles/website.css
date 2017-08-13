@@ -1,1 +1,6 @@
 /* CSS for website */
+
+.Preview .Preview-Inner>div img {
+    display: block;
+    margin: auto;
+}
