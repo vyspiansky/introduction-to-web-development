@@ -18,3 +18,19 @@
 Активно розвивають PHP фреймворки (Laravel, Symfony, Yii, Phalcon тощо), які дозволяють швидко і якісно будувати нові проекти на цій мові.
 
 Щоб не наступати на граблі і одразу ж вчитись писати код на PHP правильно варто ознайомитись із сайтом [phptherightway.com](http://www.phptherightway.com/ "http://www.phptherightway.com/") («Правильний шлях»).
+
+## Он-лайн курси та додатки
+
+Для освоєння мови спробуйте інтерактивні курси, які доступні як он-лайн, так і через додатки для смартфонів. Наприклад,
+
+* [https://www.codecademy.com/learn/php](https://www.codecademy.com/learn/php) (англ.)
+
+![Інтерактивні уроки по PHP на Codecademy](codecademy_php_screenshot.png)
+
+* [https://www.sololearn.com/Course/PHP/](https://www.sololearn.com/Course/PHP/) (англ.)
+
+![PHP підручник з тестами на смартфоні](sololearn_php_screenshot.png)
+
+
+
+
