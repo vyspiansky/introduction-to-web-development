@@ -35,7 +35,7 @@
   * [Корисні посилання](php/links.md)
 * [MySQL](mysql/index.md)
   * [Базові команди MySQL](mysql/basic-commands.md)
-  * [Основи SQL](mysql/osnovi-sql.md)
+  * [Основи SQL](mysql/sql-basics.md)
 * [MongoDB](mongodb/index.md)
 * [Linux](linux/index.md)
   * [Командний рядок \(термінал\)](linux/command-line.md)
