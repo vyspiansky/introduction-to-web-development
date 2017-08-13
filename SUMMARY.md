@@ -23,7 +23,6 @@
   * [Корисні посилання](javascript/links.md)
 * [Node.js](nodejs/index.md)
 * [PHP](php/index.md)
-  * [Вбудований веб-сервер](php/builtin-web-server-php.md)
   * [Середовище для розробки](php/development-environment.md)
   * [PHP 7](php/php-7.md)
   * [PHP-фреймворки](php/php-frameworks.md)
