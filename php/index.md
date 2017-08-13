@@ -29,8 +29,6 @@
 
 * [https://www.sololearn.com/Course/PHP/](https://www.sololearn.com/Course/PHP/) (англ.)
 
-![PHP підручник з тестами на смартфоні](/php/sololearn_php_screenshot.png)
-
 
 
 
