@@ -37,6 +37,7 @@
 * [MongoDB](mongodb/index.md)
 * [Linux / UNIX](linux-unix/index.md)
   * [Командний рядок \(термінал\)](linux-unix/command-line.md)
+  * [SSH](linux-unix/ssh.md)
 * [Що далі?](next-step/index.md)
   * [Регулярні вирази](next-step/regular-expression.md)
   * [Шаблони проектування](next-step/design-patterns.md)
