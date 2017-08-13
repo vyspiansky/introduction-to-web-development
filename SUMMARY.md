@@ -35,7 +35,7 @@
 * [MySQL](mysql/index.md)
   * [Базові команди MySQL](mysql/basic-commands.md)
 * [MongoDB](mongodb/index.md)
-* [Linux / UNIX](linux-unix/index.md)
+* [Linux](linux/index.md)
   * [Командний рядок \(термінал\)](linux-unix/command-line.md)
   * [SSH](linux-unix/ssh.md)
   * [Встановлення і налаштування LAMP-оточення](linux-unix/lamp-env-setup.md)
