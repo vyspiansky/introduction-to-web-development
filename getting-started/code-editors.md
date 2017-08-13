@@ -62,6 +62,10 @@ Sublime Text — це надзвичайно потужний текстовий
 
 Сайт: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
+Visual Studio Code — це легкий текстовий редактор із відкритим кодом, який працює на всіх основних платформах — Windows, OS X і Linux. За допомогою розширень можна додати новий функціонал, тему до вподоби тощо.
+
+![Notepad++](visual_studio_code_screenshot.png)
+
 ## IDE
 
 ### Aptana Studio
