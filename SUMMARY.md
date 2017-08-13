@@ -41,7 +41,7 @@
   * [Веб-сервер Apache](linux/apache-web-server.md)
   * [Встановлення PHP-розширень](linux/php-extensions.md)
 * [Windows](windows/index.md)
-  * [Розширена/покращена консоль](windows/command-line-tools.md)
+  * [Розширена / покращена консоль](windows/command-line-tools.md)
   * [Менеджер пакетів для Windows](windows/package-manager-for-windows.md)
   * [Корисні програми](windows/useful-programs.md)
 * [Що далі?](next-step/index.md)

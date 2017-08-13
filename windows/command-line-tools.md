@@ -1,5 +1,7 @@
 # Розширена/покращена консоль
 
-* Емулятор консолі Conemu — https://conemu.github.io/
-* Вдосконалення для Cmd.exe — https://mridgers.github.io/clink/
-* Git для Windows — https://git-for-windows.github.io/
+## Conemu
+Емулятор консолі Conemu — https://conemu.github.io/
+
+## Clink
+Вдосконалення для Cmd.exe — https://mridgers.github.io/clink/
