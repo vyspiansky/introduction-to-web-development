@@ -25,11 +25,11 @@
 
 * [https://www.codecademy.com/learn/php](https://www.codecademy.com/learn/php) (англ.)
 
-![Інтерактивні уроки по PHP на Codecademy](codecademy_php_screenshot.png)
+![Інтерактивні уроки по PHP на Codecademy](/php/codecademy_php_screenshot.png)
 
 * [https://www.sololearn.com/Course/PHP/](https://www.sololearn.com/Course/PHP/) (англ.)
 
-![PHP підручник з тестами на смартфоні](sololearn_php_screenshot.png)
+![PHP підручник з тестами на смартфоні](/php/sololearn_php_screenshot.png)
 
 
 
