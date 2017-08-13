@@ -26,8 +26,6 @@
   * [Середовище для розробки](php/development-environment.md)
   * [PHP 7](php/php-7.md)
   * [PHP-фреймворки](php/php-frameworks.md)
-  * [PHPDoc](php/phpdoc.md)
-  * [PHPUnit](php/phpunit.md)
   * [Корисні посилання](php/links.md)
 * [MySQL](mysql/index.md)
   * [Базові команди MySQL](mysql/basic-commands.md)
