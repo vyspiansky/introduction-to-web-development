@@ -54,6 +54,8 @@ Notepad++ — безкоштовний, невимогливий до ресур
 
 Сайт: [https://www.sublimetext.com/](https://www.sublimetext.com/)
 
+![Notepad++](sublime_text_screenshot.png)
+
 ### Visual Studio Code від Microsoft
 
 Сайт: [https://code.visualstudio.com/](https://code.visualstudio.com/)
