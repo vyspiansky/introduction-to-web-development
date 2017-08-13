@@ -1,4 +1,4 @@
-# Пошукові "двіжки" (від англ. search engine)
+# Пошукові системи (від англ. search engine)
 
 ## Elasticsearch
 
