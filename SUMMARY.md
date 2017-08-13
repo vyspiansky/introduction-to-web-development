@@ -6,7 +6,7 @@
   * [Веб-сервер](getting-started/webserver.md)
   * [Фреймворки](getting-started/frameworks.md)
   * [Редактори коду](getting-started/code-editors.md)
-  * [Emmet](html/emmet.md)
+  * [Emmet](getting-started/emmet.md)
   * [Контроль версій](getting-started/control-version.md)
   * [Менеджери пакетів](getting-started/package-managers.md)
   * [Менеджери завдань](getting-started/task-managers.md)
@@ -36,11 +36,10 @@
   * [Базові команди MySQL](mysql/basic-commands.md)
 * [MongoDB](mongodb/index.md)
 * [Linux / UNIX](linux-unix/index.md)
-  * [Командний рядок (термінал)](linux-unix/command-line.md)
+  * [Командний рядок \(термінал\)](linux-unix/command-line.md)
 * [Що далі?](next-step/index.md)
   * [Регулярні вирази](next-step/regular-expression.md)
   * [Шаблони проектування](next-step/design-patterns.md)
   * [Рефакторинг](next-step/refactoring.md)
   * [Семантичне версіювання](next-step/semantic-versioning.md)
-
 
