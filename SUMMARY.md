@@ -43,6 +43,7 @@
 * [Windows](windows/index.md)
   * [Інструменти командного рядка](windows/command-line-tools.md)
   * [Корисні програми](windows/useful-programs.md)
+  * [package manager for Windows](windows/package-manager-for-windows.md)
 * [Що далі?](next-step/index.md)
   * [Регулярні вирази](next-step/regular-expression.md)
   * [Шаблони проектування](next-step/design-patterns.md)
