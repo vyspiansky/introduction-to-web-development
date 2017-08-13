@@ -21,7 +21,6 @@
   * [jQuery](javascript/jquery.md)
   * [Інструменти для збірки](javascript/build-tools.md)
   * [TypeScript](javascript/typescript.md)
-  * [Створення ігор](javascript/games.md)
   * [Корисні посилання](javascript/links.md)
 * [Node.js](nodejs/index.md)
 * [PHP](php/index.md)
