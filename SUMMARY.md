@@ -19,6 +19,7 @@
 * [JavaScript](javascript/index.md)
   * [ECMAScript](javascript/ecmascript.md)
   * [AJAX](javascript/ajax.md)
+  * [jQuery](javascript/jquery.md)
   * [Інструменти для збірки](javascript/build-tools.md)
   * [TypeScript](javascript/typescript.md)
   * [Створення ігор](javascript/games.md)
