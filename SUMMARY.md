@@ -46,5 +46,4 @@
   * [Шаблони проектування](next-step/design-patterns.md)
   * [Рефакторинг](next-step/refactoring.md)
   * [Пошукові системи](next-step/search-engine.md)
-  * [Семантичне версіювання](next-step/semantic-versioning.md)
 
