@@ -34,6 +34,7 @@
   * [Базові команди MySQL](mysql/basic-commands.md)
   * [Основи SQL](mysql/sql-basics.md)
 * [MongoDB](mongodb/index.md)
+  * [MongoDB shell](mongodb/index/mongodb-shell.md)
   * [Індекси](mongodb/index/indexes.md)
 * [Linux](linux/index.md)
   * [Командний рядок \(термінал\)](linux/command-line.md)
