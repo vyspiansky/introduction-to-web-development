@@ -1,6 +1,4 @@
-# Інструменти командного рядка
-
-Розширена/покращена консоль у Windows
+# Розширена/покращена консоль
 
 * Емулятор консолі Conemu — https://conemu.github.io/
 * Вдосконалення для Cmd.exe — https://mridgers.github.io/clink/
