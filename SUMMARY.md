@@ -42,7 +42,7 @@
   * [Встановлення PHP-розширень](linux/php-extensions.md)
 * [Windows](windows/index.md)
   * [Інструменти командного рядка](windows/command-line-tools.md)
-  * [Корисні програми](windows/korisn-programi.md)
+  * [Корисні програми](windows/useful-programs.md)
 * [Що далі?](next-step/index.md)
   * [Регулярні вирази](next-step/regular-expression.md)
   * [Шаблони проектування](next-step/design-patterns.md)
