@@ -12,7 +12,6 @@ Emmet використовується як розширення \(плагін\
 
 і тиснемо клавішу `Tab`. Після чого короткий код розгортається у відповідний HTML
 
-![Рузультат роботи Emmet](emmet_basic_example_after.png)
+![Результат роботи Emmet](emmet_basic_example_after.png)
 
 Детальніше про Emmet можна почитати на [emmet.io](http://emmet.io/).
-
