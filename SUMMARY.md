@@ -39,6 +39,7 @@
   * [Командний рядок \(термінал\)](linux/command-line.md)
   * [SSH](linux/ssh.md)
   * [Встановлення і налаштування LAMP-оточення](linux/lamp-env-setup.md)
+  * [Веб-сервер Apache](linux/apache-web-server.md)
   * [Встановлення PHP-розширень](linux-unix/php-extensions.md)
 * [Що далі?](next-step/index.md)
   * [Регулярні вирази](next-step/regular-expression.md)
