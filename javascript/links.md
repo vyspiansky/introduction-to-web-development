@@ -23,3 +23,8 @@
 * [https://angularjs.org/](https://angularjs.org/) (англ.) — AngularJS — JavaScript фреймворк від Google з відкритим вихідним кодом, який використовує HTML в якості мови шаблонів.
 * [https://learn.javascript.ru/nodejs-screencast](https://learn.javascript.ru/nodejs-screencast) (рос.) — скрінкасти по Node.js.
 
+### Створення ігор на JavaScript
+
+* [https://leanpub.com/html5shootemupinanafternoon/read](https://leanpub.com/html5shootemupinanafternoon/read)(англ.) — HTML 5 Shoot 'em Up in an Afternoon.
+
+
