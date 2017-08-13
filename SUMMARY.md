@@ -40,7 +40,7 @@
   * [SSH](linux/ssh.md)
   * [Встановлення і налаштування LAMP-оточення](linux/lamp-env-setup.md)
   * [Веб-сервер Apache](linux/apache-web-server.md)
-  * [Встановлення PHP-розширень](linux-unix/php-extensions.md)
+  * [Встановлення PHP-розширень](linux/php-extensions.md)
 * [Що далі?](next-step/index.md)
   * [Регулярні вирази](next-step/regular-expression.md)
   * [Шаблони проектування](next-step/design-patterns.md)
