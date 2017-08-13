@@ -40,6 +40,7 @@
   * [Встановлення і налаштування LAMP-оточення](linux/lamp-env-setup.md)
   * [Веб-сервер Apache](linux/apache-web-server.md)
   * [Встановлення PHP-розширень](linux/php-extensions.md)
+* [Windows](windows/index.md)
 * [Що далі?](next-step/index.md)
   * [Регулярні вирази](next-step/regular-expression.md)
   * [Шаблони проектування](next-step/design-patterns.md)
