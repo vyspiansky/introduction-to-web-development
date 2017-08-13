@@ -21,9 +21,26 @@
 
 Сайт: [https://atom.io/](https://atom.io/)
 
+Atom позиціонують, як текстовий редактор, створений для потреб сучасних розробників. Завдяки відкритому API має чимало послідовників та силу-силенну плагінів. Atom — безкоштовний і працює на Windows, OS X та Linux.
+
+![Atom від GitHub](atom_screenshot.png)
+
 ### Brackets від Adobe
 
 Сайт: [http://brackets.io/](http://brackets.io/)
+
+Brackets зосереджений на потребах веб-дизайнерів з вбудованою підтримкою HTML, CSS та JavaScript. Brackets — безкоштовний, легкий у використанні, швидкий і має багато додаткових плагінів. Працює на Windows, OS X та Linux.
+
+![Brackets від Adobe](brackets_screenshot.png)
+
+З цікавих особливостей Brackets можна зазначити:
+
+* попередній перегляд (англ. Live Preview), який дозволяє в реальному часі бачити CSS та HTML зміни в браузері;
+* швидке редагування CSS одразу в HTML коді.
+
+![Швидке редагування CSS одразу в HTML коді в Brackets](brackets_screenshot_inline_editing.png)
+
+Рис. 2.2. Швидке редагування CSS одразу в HTML коді (комбінація клавіш Ctrl + E у Windows).
 
 ### Notepad++
 
