@@ -14,7 +14,6 @@
 * [HTML](html/index.md)
   * [Корисні посилання](html/links.md)
 * [CSS](css/index.md)
-  * [Верстка e-mail листів](css/email-layout.md)
   * [CSS-препроцесори](css/preprocessors.md)
   * [Корисні посилання](css/links.md)
 * [JavaScript](javascript/index.md)
