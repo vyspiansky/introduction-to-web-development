@@ -38,6 +38,7 @@
 * [Linux / UNIX](linux-unix/index.md)
   * [Командний рядок \(термінал\)](linux-unix/command-line.md)
   * [SSH](linux-unix/ssh.md)
+  * [Встановлення і налаштування LAMP-оточення](linux-unix/lamp-environment.md)
 * [Що далі?](next-step/index.md)
   * [Регулярні вирази](next-step/regular-expression.md)
   * [Шаблони проектування](next-step/design-patterns.md)
