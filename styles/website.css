@@ -1,6 +1,6 @@
 /* CSS for website */
 
-.Preview .Preview-Inner>div img {
+.markdown-section img {
     display: block;
     margin: auto;
 }
