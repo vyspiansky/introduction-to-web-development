@@ -16,13 +16,13 @@ git init
 Клонувати репозиторій, що існує, по HTTP (на прикладі GitHub)
 
 ```
-git clone https://github.com/vyspiansky/english-verb-tenses-quiz.git
+git clone https://github.com/{vendor_name}/{project_name}.git
 ```
 
 Або клонувати репозиторій, що існує, за допомогою SSH
 
 ```
-git clone git@github.com:vyspiansky/english-verb-tenses-quiz.git
+git clone git@github.com:{vendor_name}/{project_name}.git
 ```
 
 Перевірити стан
