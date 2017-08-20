@@ -25,6 +25,12 @@ git clone https://github.com/{vendor_name}/{project_name}.git
 git clone git@github.com:{vendor_name}/{project_name}.git
 ```
 
+Додати файл(и) в індекс
+
+```
+git add file_name
+```
+
 Перевірити стан
 
 ```
@@ -35,12 +41,6 @@ git status
 
 ```
 git status -uno
-```
-
-Додати файл(и) в індекс
-
-```
-git add file_name
 ```
 
 Показати локальні гілки
