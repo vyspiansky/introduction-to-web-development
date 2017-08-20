@@ -4,7 +4,7 @@
 
 https://git-scm.com/download/win
 
-Якщо ви використовуєте менеджер пакетів Chocolatey, запустіть з командного рядка або з PowerShell:
+Або, якщо ви використовуєте менеджер пакетів Chocolatey, запустіть з командного рядка чи з PowerShell:
 
 ```
 choco install git.install
