@@ -37,6 +37,12 @@ git status
 git status -uno
 ```
 
+Додати файл(и) в індекс
+
+```
+git add file_name
+```
+
 Показати локальні гілки
 
 ```
