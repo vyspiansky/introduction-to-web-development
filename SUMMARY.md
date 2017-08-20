@@ -3,6 +3,7 @@
 * [Вступ](README.md)
 * [Починаємо](getting-started/index.md)
   * [Фронтенд / бекенд](getting-started/frontend-backend.md)
+  * [HTTP](getting-started/http.md)
   * [Веб-сервер](getting-started/webserver.md)
   * [Фреймворки](getting-started/frameworks.md)
   * [Редактори коду](getting-started/code-editors.md)
