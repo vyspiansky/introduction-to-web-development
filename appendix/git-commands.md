@@ -13,13 +13,13 @@ git config --global user.name "Your Name"
 git init
 ```
 
-Клонувати існуючий репозиторій по HTTP
+Клонувати репозиторій, що існує, по HTTP (на прикладі GitHub)
 
 ```
 git clone https://github.com/vyspiansky/english-verb-tenses-quiz.git
 ```
 
-клонувати існуючий репозиторію за допомогою SSH
+Або клонувати репозиторій, що існує, за допомогою SSH
 
 ```
 git clone git@github.com:vyspiansky/english-verb-tenses-quiz.git
