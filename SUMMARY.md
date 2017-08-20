@@ -42,8 +42,9 @@
   * [Веб-сервер Apache](linux/apache-web-server.md)
   * [Встановлення PHP-розширень](linux/php-extensions.md)
 * [Windows](windows/index.md)
-  * [Розширена / покращена консоль](windows/command-line-tools.md)
+  * [Windows 10 підсистема для Linux](windows/windows-10-subsystem-for-linux.md)
   * [Менеджер пакетів для Windows](windows/package-manager-for-windows.md)
+  * [Розширена / покращена консоль](windows/command-line-tools.md)
   * [Корисні програми](windows/useful-programs.md)
 * [Що далі?](next-step/index.md)
   * [Регулярні вирази](next-step/regular-expression.md)
@@ -52,5 +53,4 @@
   * [Пошукові системи](next-step/search-engine.md)
 * [Додатки](appendix/index.md)
   * [Додаток 1. Додавання CSS до HTML-документу](appendix/adding-css-to-html.md)
-
 
