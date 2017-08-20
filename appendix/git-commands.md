@@ -7,7 +7,7 @@ git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 ```
 
-Ініціалізувати порожній репозиторій
+Ініціалізувати порожній локальний Git-репозиторій
 
 ```
 git init
