@@ -15,7 +15,6 @@
 * [HTML](html/index.md)
   * [Корисні посилання](html/links.md)
 * [CSS](css/index.md)
-  * [Додавання CSS до HTML-документу](css/adding-css-to-html.md)
   * [CSS-препроцесори](css/preprocessors.md)
   * [Корисні посилання](css/links.md)
 * [JavaScript](javascript/index.md)
@@ -51,4 +50,7 @@
   * [Шаблони проектування](next-step/design-patterns.md)
   * [Рефакторинг](next-step/refactoring.md)
   * [Пошукові системи](next-step/search-engine.md)
+* [Додатки](appendix/index.md)
+  * [Додаток 1. Додавання CSS до HTML-документу](appendix/adding-css-to-html.md)
+
 
