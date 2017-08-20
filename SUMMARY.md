@@ -15,6 +15,7 @@
 * [HTML](html/index.md)
   * [Корисні посилання](html/links.md)
 * [CSS](css/index.md)
+  * [Додавання CSS до HTML-документу](css/adding-css-to-html.md)
   * [CSS-препроцесори](css/preprocessors.md)
   * [Корисні посилання](css/links.md)
 * [JavaScript](javascript/index.md)
