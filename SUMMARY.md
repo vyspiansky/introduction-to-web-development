@@ -12,6 +12,8 @@
   * [Менеджери пакетів](getting-started/package-managers.md)
   * [Менеджери завдань](getting-started/task-managers.md)
   * [Виникають труднощі?](getting-started/have-a-problem.md)
+* [Git](git/index.md)
+  * [Встановлення Git](git/installing-git.md)
 * [HTML](html/index.md)
   * [Корисні посилання](html/links.md)
 * [CSS](css/index.md)
