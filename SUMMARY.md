@@ -53,4 +53,5 @@
   * [Пошукові системи](next-step/search-engine.md)
 * [Додатки](appendix/index.md)
   * [Додаток 1. Додавання CSS до HTML-документу](appendix/adding-css-to-html.md)
+  * [Додаток 2. Часті Git-команди](appendix/git-commands.md)
 
