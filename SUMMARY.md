@@ -26,6 +26,7 @@
   * [Корисні посилання](javascript/links.md)
 * [Node.js](nodejs/index.md)
 * [PHP](php/index.md)
+  * [Composer](php/composer.md)
   * [Середовище для розробки](php/development-environment.md)
   * [PHP-фреймворки](php/php-frameworks.md)
   * [Корисні посилання](php/links.md)
