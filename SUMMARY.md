@@ -56,6 +56,8 @@
   * [Шаблони проектування](next-step/design-patterns.md)
   * [Рефакторинг](next-step/refactoring.md)
   * [Пошукові системи](next-step/search-engine.md)
+  * [Front-end](next-step/front-end.md)
+  * Back-end
 * [Додатки](appendix/index.md)
   * [Додаток 1. Базові Git-команди](appendix/git-commands.md)
   * [Додаток 2. Додавання CSS до HTML-документу](appendix/adding-css-to-html.md)
