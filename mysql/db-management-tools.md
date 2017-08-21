@@ -1,10 +1,12 @@
 # Інструменти управління базами даних
 
-## Windows
+## HeidiSQL (Windows)
 
-...
+Сайт: [heidisql.com](https://www.heidisql.com/)
 
-## OS X
+**HeidiSQL** — надійний інструмент для веб-розробників, які використовують MySQL, Microsoft SQL і/чи PostgreSQL. Він дозволяє переглядати та редагувати дані, створювати та редагувати таблиці, процедури, трігери (англ. triggers) та заплановані події. Також ви можете експортувати структуру та дані в файл SQL і не лише.
+
+## Sequel Pro (OS X)
 
 Сайт: [sequelpro.com](https://www.sequelpro.com/)
 
