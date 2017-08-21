@@ -32,6 +32,7 @@
 * [MySQL](mysql/index.md)
   * [Базові команди MySQL](mysql/basic-commands.md)
   * [Основи SQL](mysql/sql-basics.md)
+  * [Інструменти управління базами даних](mysql/db-management-tools.md)
 * [MongoDB](mongodb/index.md)
   * [MongoDB shell](mongodb/mongodb-shell.md)
   * [MongoDB GUI](mongodb/mongodb-gui.md)
