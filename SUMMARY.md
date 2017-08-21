@@ -12,7 +12,6 @@
   * [Контроль версій](getting-started/control-version.md)
   * [Менеджери пакетів](getting-started/package-managers.md)
   * [Менеджери завдань](getting-started/task-managers.md)
-  * TCP / IP protocol
 * [Git](git/index.md)
   * [Встановлення Git](git/installing-git.md)
 * [HTML](html/index.md)
