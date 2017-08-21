@@ -22,7 +22,6 @@
 * [JavaScript](javascript/index.md)
   * [jQuery](javascript/jquery.md)
   * [Інструменти для збірки](javascript/build-tools.md)
-  * [TypeScript](javascript/typescript.md)
   * [Корисні посилання](javascript/links.md)
 * [Node.js](nodejs/index.md)
   * [npm](nodejs/index/npm.md)
