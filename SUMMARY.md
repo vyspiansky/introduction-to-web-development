@@ -27,7 +27,6 @@
 * [Node.js](nodejs/index.md)
 * [PHP](php/index.md)
   * [Середовище для розробки](php/development-environment.md)
-  * [PHP 7](php/php-7.md)
   * [PHP-фреймворки](php/php-frameworks.md)
   * [Корисні посилання](php/links.md)
 * [MySQL](mysql/index.md)
@@ -56,4 +55,5 @@
 * [Додатки](appendix/index.md)
   * [Додаток 1. Базові Git-команди](appendix/git-commands.md)
   * [Додаток 2. Додавання CSS до HTML-документу](appendix/adding-css-to-html.md)
+  * [Додаток 3. PHP 7](appendix/php-7.md)
 
