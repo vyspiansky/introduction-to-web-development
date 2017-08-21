@@ -26,6 +26,7 @@
   * [TypeScript](javascript/typescript.md)
   * [Корисні посилання](javascript/links.md)
 * [Node.js](nodejs/index.md)
+  * [npm](nodejs/index/npm.md)
 * [PHP](php/index.md)
   * [Середовище для розробки](php/development-environment.md)
   * [Composer](php/composer.md)
