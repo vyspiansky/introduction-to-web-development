@@ -8,6 +8,6 @@
 
 **Регулярні вирази** (англ. regular expression) — шаблони, що використовуються для пошуку комбінацій символів в рядках. Це скоріше самостійна мова програмування, ніж частина будь-якої мови. Регулярні вирази є в PHP, Python, JavaScript, конфігураційних файлах Apache тощо. Залежно від мови, можуть мати місце невеликі відмінності в синтаксисі регулярних виразів, але основні ідеї скрізь одні й ті ж.
 
-Для вивчення регулярних вирізів спробуйте "Learn regex. The easy way" — [github.com/zeeshanu/learn-regex](https://github.com/zeeshanu/learn-regex)
+Для вивчення регулярних вирізів спробуйте "Learn regex. The easy way" — [github.com/zeeshanu/learn-regex](https://github.com/zeeshanu/learn-regex) (англ.).
 
 
