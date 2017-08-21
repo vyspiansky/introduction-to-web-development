@@ -34,6 +34,7 @@
   * [Основи SQL](mysql/sql-basics.md)
 * [MongoDB](mongodb/index.md)
   * [MongoDB shell](mongodb/mongodb-shell.md)
+  * [MongoDB GUI](mongodb/mongodb-gui.md)
   * [Вибірка і сортування](mongodb/selects.md)
   * [Індекси](mongodb/indexes.md)
 * [Linux](linux/index.md)
