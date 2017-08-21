@@ -51,7 +51,6 @@
   * [Розширена / покращена консоль](windows/command-line-tools.md)
   * [Корисні програми](windows/useful-programs.md)
 * [Що далі?](next-step/index.md)
-  * [Шаблони проектування](next-step/design-patterns.md)
   * [Рефакторинг](next-step/refactoring.md)
   * [Front-end](next-step/front-end.md)
   * [Back-end](next-step/back-end.md)
