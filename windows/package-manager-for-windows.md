@@ -19,3 +19,9 @@ choco install python3
 ```
 
 Назви програм можна знайти в списку пакетів на сторінці [https://chocolatey.org/packages](https://chocolatey.org/packages).
+
+За допомогою Chocolatey ви також можете оновлювати потрібні вам програми. Наприклад,  щоб оновити Node.js, запустіть з командного рядка або з PowerShell:
+
+```
+choco upgrade nodejs.install
+```
