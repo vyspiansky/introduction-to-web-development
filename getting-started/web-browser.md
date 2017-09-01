@@ -23,3 +23,5 @@ console.log(12 - 5);
 виведе в консоль 7.
 
 Якщо потрібно, команди JavaScript можуть бути виконані одразу ж в консолі.
+
+![Виконані в консолі JavaScript команди](/getting-started/browser_console_expression_exec.png)
