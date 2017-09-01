@@ -4,6 +4,7 @@
 * [Починаємо](getting-started/index.md)
   * [TCP/IP протокол](getting-started/tcp-ip-protocol.md)
   * [HTTP](getting-started/http.md)
+  * [Інструменти розробника в браузері](getting-started/browser-developer-tools.md)
   * [Веб-сервер](getting-started/webserver.md)
   * [Фронтенд / бекенд](getting-started/frontend-backend.md)
   * [Фреймворки](getting-started/frameworks.md)
