@@ -10,7 +10,6 @@
   * [Фреймворки](getting-started/frameworks.md)
   * [Редактори коду](getting-started/code-editors.md)
   * [Emmet](getting-started/emmet.md)
-  * [Контроль версій](getting-started/control-version.md)
   * [Менеджери пакетів](getting-started/package-managers.md)
   * [Менеджери завдань](getting-started/task-managers.md)
 * [Git](git/index.md)
