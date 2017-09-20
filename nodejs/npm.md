@@ -9,7 +9,7 @@
 
 `$ npm init`
 
-![](/nodejs/npm_init.png)
+![$ npm init](/nodejs/npm_init.png)
 
 > Натискаючи Enter, можна вибирати параметри за замовченням.
 
