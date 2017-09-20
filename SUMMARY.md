@@ -24,7 +24,7 @@
   * [Інструменти для збірки](javascript/build-tools.md)
   * [Корисні посилання](javascript/links.md)
 * [Node.js](nodejs/index.md)
-  * [npm](nodejs/index/npm.md)
+  * [npm](nodejs/npm.md)
 * [PHP](php/index.md)
   * [Середовище для розробки](php/development-environment.md)
   * [Composer](php/composer.md)
