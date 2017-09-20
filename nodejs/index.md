@@ -16,6 +16,8 @@ Node.js дозволяє писати серверну частину проек
 
 `$ sudo apt-get install nodejs`
 
+![sudo apt-get install nodejs](nodejs_install.png)
+
 > **Зверніть увагу**, що пакет в Ubuntu називається nodejs, а не node.
 
 Також можна встановити npm — менеджер пакетів для Node.js:
