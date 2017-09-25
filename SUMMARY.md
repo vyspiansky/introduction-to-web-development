@@ -18,6 +18,7 @@
   * [CSS-препроцесори](css/preprocessors.md)
   * [Корисні посилання](css/links.md)
 * [JavaScript](javascript/index.md)
+  * [DOM \(Document Object Model\)](javascript/dom-document-object-model.md)
   * [jQuery](javascript/jquery.md)
   * [Інструменти для збірки](javascript/build-tools.md)
   * [Корисні посилання](javascript/links.md)
