@@ -21,7 +21,7 @@ sudo apt-get install nodejs
 
 **Зверніть увагу**, що пакет в Ubuntu називається nodejs, а не node.
 
-Також можна встановити npm — менеджер пакетів для Node.js:
+Також слід встановити npm — менеджер пакетів для Node.js:
 
 ```
 sudo apt-get install npm
