@@ -37,12 +37,6 @@ sudo apt-get install npm
 nodejs -v
 ```
 
-І для npm:
-
-```
-npm -v
-```
-
 ## Трішки практики
 
 Давайте запустимо Node.js в Ubuntu терміналі, для чого введемо:
