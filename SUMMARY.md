@@ -6,6 +6,7 @@
   * [HTTP](getting-started/http.md)
   * [Веб-браузер](getting-started/web-browser.md)
   * [Веб-сервер](getting-started/webserver.md)
+  * [Cookies](getting-started/cookies.md)
   * [Фронтенд / бекенд](getting-started/frontend-backend.md)
   * [Фреймворки](getting-started/frameworks.md)
   * [Редактори коду](getting-started/code-editors.md)
