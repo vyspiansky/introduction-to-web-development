@@ -13,6 +13,7 @@
   * [Emmet](getting-started/emmet.md)
 * [Git](git/index.md)
 * [HTML](html/index.md)
+  * [Веб-верстка](html/web-design.md)
   * [Корисні посилання](html/links.md)
 * [CSS](css/index.md)
   * [CSS-препроцесори](css/preprocessors.md)
