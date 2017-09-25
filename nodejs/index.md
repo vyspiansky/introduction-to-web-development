@@ -12,29 +12,37 @@ Node.js дозволяє писати серверну частину проек
 
 Спочатку оновимо локальний індекс пакетів, а потім встановимо дистрибутив з репозиторіїв:
 
-`$ sudo apt-get update`
+```
+$ sudo apt-get update
+```
 
-`$ sudo apt-get install nodejs`
+```
+$ sudo apt-get install nodejs
+```
 
 ![sudo apt-get install nodejs](nodejs_install.png)
 
-> **Зверніть увагу**, що пакет в Ubuntu називається nodejs, а не node.
+**Зверніть увагу**, що пакет в Ubuntu називається nodejs, а не node.
 
 Також можна встановити npm — менеджер пакетів для Node.js:
 
-`$ sudo apt-get install npm`
+```
+$ sudo apt-get install npm
+```
 
 Щоб перевірити версію Node.js, запустіть:
 
-`$ nodejs -v`
-
-`v4.2.6`
+```
+$ nodejs -v
+v4.2.6
+```
 
 І для npm:
 
-`$ npm -v`
-
-`3.5.2`
+```
+$ npm -v
+3.5.2
+```
 
 
 
