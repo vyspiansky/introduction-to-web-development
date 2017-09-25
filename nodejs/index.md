@@ -14,9 +14,6 @@ Node.js дозволяє писати серверну частину проек
 
 ```
 $ sudo apt-get update
-```
-
-```
 $ sudo apt-get install nodejs
 ```
 
