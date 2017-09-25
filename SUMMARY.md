@@ -13,7 +13,6 @@
   * [Менеджери пакетів](getting-started/package-managers.md)
   * [Менеджери завдань](getting-started/task-managers.md)
 * [Git](git/index.md)
-  * [Встановлення Git](git/installing-git.md)
 * [HTML](html/index.md)
   * [Корисні посилання](html/links.md)
 * [CSS](css/index.md)
@@ -58,6 +57,4 @@
   * [Додаток 1. Базові Git-команди](appendix/git-commands.md)
   * [Додаток 2. Додавання CSS до HTML-документу](appendix/adding-css-to-html.md)
   * [Додаток 3. PHP 7](appendix/php-7.md)
-
-
 
