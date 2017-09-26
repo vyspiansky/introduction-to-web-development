@@ -13,7 +13,7 @@
   * [Emmet](getting-started/emmet.md)
 * [Git](git/index.md)
 * [HTML](html/index.md)
-  * [Веб-верстка](html/web-design.md)
+  * [Веб-верстка](/html/web-design.md)
   * [Корисні посилання](html/links.md)
 * [CSS](css/index.md)
   * [CSS-препроцесори](css/preprocessors.md)
@@ -58,4 +58,6 @@
   * [Додаток 1. Базові Git-команди](appendix/git-commands.md)
   * [Додаток 2. Додавання CSS до HTML-документу](appendix/adding-css-to-html.md)
   * [Додаток 3. PHP 7](appendix/php-7.md)
+
+
 
