@@ -16,6 +16,7 @@
   * [Веб-верстка](/html/web-design.md)
   * [Корисні посилання](html/links.md)
 * [CSS](css/index.md)
+  * [CSS медіа запити](css/media-queries.md)
   * [CSS-препроцесори](css/preprocessors.md)
   * [Корисні посилання](css/links.md)
 * [JavaScript](javascript/index.md)
