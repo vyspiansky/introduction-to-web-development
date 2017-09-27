@@ -25,6 +25,7 @@
   * [jQuery](javascript/jquery.md)
   * [Інструменти для збірки](javascript/build-tools.md)
   * [Корисні посилання](javascript/links.md)
+  * [Замикання](javascript/closure.md)
 * [Node.js](nodejs/index.md)
   * [npm](nodejs/npm.md)
 * [PHP](php/index.md)
