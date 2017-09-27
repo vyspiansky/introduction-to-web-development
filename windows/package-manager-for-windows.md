@@ -1,8 +1,8 @@
 # Chocolatey
 
-Сайт: [https://chocolatey.org/](https://chocolatey.org/)
-
 **Chocolatey** — це менеджер пакетів для Windows (як apt-get в Ubuntu). Він був розроблений таким чином, щоб бути децентралізованою системою для швидкого встановлення програм та інструментів, які вам потрібні.
+
+Сайт: [https://chocolatey.org/](https://chocolatey.org/)
 
 ## Як використовувати?
 
