@@ -53,7 +53,6 @@
 * [Що далі?](next-step/index.md)
   * [Front-end](next-step/front-end.md)
   * [Back-end](next-step/back-end.md)
-  * [Загальне](next-step/common.md)
 * [Додатки](appendix/index.md)
   * [Додаток 1. Базові Git-команди](appendix/git-commands.md)
   * [Додаток 2. Додавання CSS до HTML-документу](appendix/adding-css-to-html.md)
