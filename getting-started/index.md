@@ -18,7 +18,7 @@
 
 В процесі ви познайомитесь з такими термінами:
 * DOM (Document Object Model)
-* Замикання (англ. closure) — [http://javascript.ru/basic/closure](http://javascript.ru/basic/closure)
+* Замикання (англ. closure)
 * AJAX, JSON
 
 Окрім самої мови, варто також познайомитись з:
