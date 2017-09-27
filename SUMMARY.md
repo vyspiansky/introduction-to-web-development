@@ -32,6 +32,7 @@
 * [PHP](php/index.md)
   * [Середовище для розробки](php/development-environment.md)
   * [Composer](php/composer.md)
+  * [Laravel](php/laravel.md)
   * [Корисні посилання](php/links.md)
 * [MySQL](mysql/index.md)
   * [Базові команди MySQL](mysql/basic-commands.md)
@@ -61,3 +62,4 @@
   * [Додаток 2. Додавання CSS до HTML-документу](appendix/adding-css-to-html.md)
   * [Додаток 3. PHP 7](appendix/php-7.md)
   * [Додаток 4. PHP-фреймворки](appendix/php-frameworks.md)
+
