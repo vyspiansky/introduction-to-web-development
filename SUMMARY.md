@@ -17,6 +17,7 @@
   * [Корисні посилання](html/links.md)
 * [CSS](css/index.md)
   * [CSS медіа запити](css/media-queries.md)
+  * [CSS переходи / анімації](css/transitions-and-animations.md)
   * [CSS-препроцесори](css/preprocessors.md)
   * [Корисні посилання](css/links.md)
 * [JavaScript](javascript/index.md)

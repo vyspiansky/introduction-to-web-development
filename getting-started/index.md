@@ -6,7 +6,7 @@
 
 В процесі ви познайомитесь з такими термінами:
 * Адаптивний веб-дизайн (англ. Responsive Web Design)
-* CSS переходи / анімації (англ. Transitions & Animations)
+*  (англ. Transitions & Animations)
 * CSS-препроцесори (Less, Sass, Stylus)
 * тощо
 
