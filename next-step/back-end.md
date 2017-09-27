@@ -4,10 +4,6 @@
 * Laravel
 * Yii 2
 
-## CMS 
-* WordPress
-* Magento
-
 ## Кешування
 * Varnish (HTTP кешування)
 * Redis, Memcache (кешування на рівні додатку)
