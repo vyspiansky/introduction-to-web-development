@@ -1,15 +1,7 @@
 
 # Інструменти для збірки проектів
 
-## Grunt
-
-Grunt — інструмент для збірки JavaScript-проектів...
-
-## GulpJS
-
-GulpJS — дуже швидкий збирач проектів...
-
-## Webpack
-
-[Webpack](https://webpack.github.io) — один з найбільш потужних та гнучких інструментів для збірки frontend...
+* [Grunt](https://gruntjs.com) — інструмент для збірки JavaScript-проектів.
+* [Gulp](https://gulpjs.com) — дуже швидкий збирач проектів.
+* [Webpack](https://webpack.github.io) — один з найбільш потужних та гнучких інструментів для збірки фронтенду.
 
