@@ -26,6 +26,7 @@
   * [jQuery](javascript/jquery.md)
   * [Інструменти для збірки](javascript/build-tools.md)
   * [Корисні посилання](javascript/links.md)
+  * [AJAX, JSON](javascript/ajax-json.md)
 * [Node.js](nodejs/index.md)
   * [npm](nodejs/npm.md)
 * [PHP](php/index.md)
