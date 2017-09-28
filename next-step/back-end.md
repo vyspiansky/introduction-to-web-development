@@ -1,6 +1,6 @@
 # Back-end
 
-## Фреймворки
+## PHP-фреймворки
 * Laravel
 * Yii 2
 
