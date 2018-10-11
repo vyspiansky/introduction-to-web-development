@@ -1,11 +1,11 @@
 {
     "plugins": [
-        "meta-single",
+        "meta"
     ],
     "pluginsConfig": {
-        "meta-single": {
-            "name": "name",
-            "content": "content123456"
+        "meta": {
+            "name": "apple-mobile-web-app-capable",
+            "content": "yes"
         }
     }
 }
