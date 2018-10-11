@@ -1,11 +1,15 @@
 {
     "plugins": [
-        "meta"
+        "meta",
+        "sitemap-general"
     ],
     "pluginsConfig": {
         "meta": {
             "name": "google-site-verification",
             "content": "YMchHs7j3CzRJqhs_ZsjHOVfkQ9JPzt43T7toya0hnk"
+        },
+        "sitemap-general": {
+            "prefix": "https://ihor.gitbooks.io/introduction-to-web-development/content/"
         }
     }
 }
