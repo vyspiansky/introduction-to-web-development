@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        "meta-single",
+    ],
+    "pluginsConfig": {
+        "meta-single": {
+            "name": "name",
+            "content": "content"
+        }
+    }
+}
