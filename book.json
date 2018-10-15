@@ -2,7 +2,8 @@
     "plugins": [
         "meta",
         "sitemap-general",
-        "disqus"
+        "disqus",
+        "ga"
     ],
     "pluginsConfig": {
         "meta": {
@@ -14,6 +15,9 @@
         },
         "disqus": {
             "shortName": "introduction-to-web-development"
+        },
+        "ga": {
+            "token": "UA-127532163-1"
         }
     }
 }
