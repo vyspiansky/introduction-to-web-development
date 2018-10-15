@@ -2,8 +2,7 @@
     "plugins": [
         "meta",
         "sitemap-general",
-        "disqus",
-        "ga"
+        "disqus"
     ],
     "pluginsConfig": {
         "meta": {
