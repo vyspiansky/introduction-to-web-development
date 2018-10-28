@@ -2,7 +2,7 @@
 
 ---
 
-**Увага! Даний **[**посібник переїхав**](https://vyspiansky.gitbook.io/introduction-to-web-development/)** на нову платформу і є застарілим. Перейдіть за **[**цим посиланням**](https://vyspiansky.gitbook.io/introduction-to-web-development/)**, щоб відвідати нову версію.**
+**Увага! Даний **[**посібник переїхав**](https://vyspiansky.gitbook.io/introduction-to-web-development/)** на нову платформу. Перейдіть за **[**цим посиланням**](https://vyspiansky.gitbook.io/introduction-to-web-development/)**, щоб відвідати нову версію.**
 
 ---
 
